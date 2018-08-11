@@ -26,7 +26,7 @@
     "transboundary":1,
     "unique_number":407,
     "updated_at":42,
-    "flights": "/Lethbridge.png"
+    "flights": "/images/Lethbridge.png"
   },
 
     {   
@@ -114,7 +114,7 @@
     "transboundary":1,
     "unique_number":326,
     "updated_at":42,
-    "flights": "/Miami.png"
+    "flights": "/images/Miami.png"
     },
 
     {
@@ -144,7 +144,7 @@
     "transboundary": 1,
     "unique_number": 913,
     "updated_at": 42,
-    "flights": "/Austria.png"
+    "flights": "/images/Austria.png"
       },
       {
     "category": "Cultural",
@@ -173,7 +173,7 @@
     "transboundary": 1,
     "unique_number": 1364,
     "updated_at": 42,
-    "flights":"/Stockholm.png"
+    "flights":"/images/Stockholm.png"
       },
       {
     "category": "Natural",
@@ -202,7 +202,7 @@
     "transboundary": 1,
     "unique_number": 2005,
     "updated_at": 42,
-    "flights": "/Warsaw.png"
+    "flights": "/images/Warsaw.png"
     },
     {
     "category": "Cultural",
@@ -231,7 +231,7 @@
     "transboundary": 1,
     "unique_number": 2094,
     "updated_at": 42,
-    "flights":"/Tirana.png"
+    "flights":"/images/Tirana.png"
       },
       {
     "category": "Cultural",
@@ -260,7 +260,7 @@
     "transboundary": 1,
     "unique_number": 3003,
     "updated_at": 42,
-    "flights":"/Cusco.png"
+    "flights":"/images/Cusco.png"
       },
       {
     "category": "Natural",
@@ -289,7 +289,7 @@
     "transboundary": 0,
     "unique_number": 160,
     "updated_at": 42,
-    "flights": "/El Calafate.png"
+    "flights": "/images/El Calafate.png"
       },
       {
     "category": "Natural",
@@ -318,7 +318,7 @@
     "transboundary": 1,
     "unique_number": 1777,
     "updated_at": 42,
-    "flights": "/Lviv.png"
+    "flights": "/images/Lviv.png"
       },
       {
     "category": "Cultural",
@@ -347,7 +347,7 @@
     "transboundary": 1,
     "unique_number": 1539,
     "updated_at": 42,
-    "flights": "/Newcastle.png"
+    "flights": "/images/Newcastle.png"
       },
       {
     "category": "Cultural",
@@ -376,7 +376,7 @@
     "transboundary": 1,
     "unique_number": 2114,
     "updated_at": 42,
-    "flights": "/Rome.png"
+    "flights": "/images/Rome.png"
       },
       {
     "category": "Natural",
@@ -405,7 +405,7 @@
     "transboundary": 0,
     "unique_number": 340,
     "updated_at": 42,
-    "flights": "/Comodoro.png"
+    "flights": "/images/Comodoro.png"
       },
       {
     "category":"Natural",
@@ -434,7 +434,7 @@
     "transboundary":0,
     "unique_number":1092,
     "updated_at":42,
-    "flights":"/Trelew.png"
+    "flights":"/images/Trelew.png"
     },
     {
     "category":"Cultural",
@@ -463,7 +463,7 @@
     "transboundary":0,
     "unique_number":1563,
     "updated_at":42,
-    "flights": "/Tirana.png"
+    "flights": "/images/Tirana.png"
     },
     {
     "category":"Natural",
@@ -492,6 +492,6 @@
     "transboundary":0,
     "unique_number":1563,
     "updated_at":42,
-    "flights":"/Flagstaff.png"
+    "flights":"/images/Flagstaff.png"
     }
 ]}

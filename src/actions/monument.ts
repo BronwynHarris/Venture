@@ -1,6 +1,6 @@
 import { SET_MONUMENTS, SET_PHOTOS } from '../constants/monument';
 
-const api = (monuments = 'monuments') => `https://api.myjson.com/bins/hibds`;
+const api = (monuments = 'monuments') => `https://api.myjson.com/bins/m9ofw`;
 
 const req = (url: string, method = 'GET', body?: any) => new Request(url, {
   method,

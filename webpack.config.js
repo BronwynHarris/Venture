@@ -14,7 +14,6 @@ var output = {
 var toCopy = [
   { from: 'index.html' },
   { from: 'Staticfile' },
-  { from: 'favicons', to: 'favicons' }
 ];
 
 var plugins = [
